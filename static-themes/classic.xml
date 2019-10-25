@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<head>
+  <meta charset='UTF-8'/>
+  <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+  <meta content='ie=edge' http-equiv='X-UA-Compatible'/>
+  <meta content='black' name='theme-color'/>
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'/>
+  <link href='https://fonts.googleapis.com/css?family=Merienda&amp;display=swap' rel='stylesheet'/>
+   <link href='/public@blogkraken/logos@blogkraken/original/logo_short.png' rel='shortcut icon' type='image/png'/>
+   <link href='https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Round' rel='stylesheet'/>
+   <link href='https://cdnjs.cloudflare.com/ajax/libs/plyr/3.5.4/plyr.css' rel='stylesheet'/>
+   <link href='https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css' rel='stylesheet'/>
+   <link href='https://fonts.googleapis.com/css?family=Proza+Libre' rel='stylesheet'/>
+
+   <link href='https://fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet'/>
+
+   <script src='https://cdn.jsdelivr.net/materialize/0.98.0/js/materialize.min.js'/>
+   <link href='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/staticprocessors%40blogkraken/blogger_styler_blogkraken.css' rel='stylesheet' type='text/css'/>
+   <script src='https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js'/>
+  <title> Welcome To Blogkraken</title>
+ <b:skin><![CDATA[
+             
+              #header{display:none !important;}
+             
+    ]]></b:skin>
+  </head>
+<body>
+
+ <b:section class='header' id='header' maxwidgets='1' showaddelement='no' style='display:none;'/>
+ <blogID/>
+  <nav style='background-color: #ff0047; height: 42px;opacity: 1; margin-top: 0px; text-align: center;line-height: 42px;'>
+    <div class='nav-wrapper'>
+      <b style='font-size: 12px;font-weight: bold'>Preview Code : (0231) Theme Name:(Classic)</b>
+    </div>
+  </nav>
+  <blogHeader>
+    <blogHeaderBanner>
+<div class='headerback blogHeader'>
+     <div class='row' style='margin-bottom: 0px; background-color: black;'>
+       <div class='col s12 m6 hide-on-med-and-down' style='background-image: url(https://4.bp.blogspot.com/-TAYD3erk_gs/XK5cVoKr2YI/AAAAAAAAZ50/53xw84Gk55ELa9z4Fj3zlw2AhmjCI5NjwCLcBGAs/s640/x.jpg); height: 320px; opacity: 0.6;filter: blur(1px); '>
+       </div>
+
+       <div class='col s12 m6 ' style='background-image: url(https://4.bp.blogspot.com/-3LL1O3x8Nos/XHrhbarTs7I/AAAAAAAAZnU/CzVcK5w45gcxgkPSL7B875yXMA3ObrpdgCLcBGAs/s640/0%2Bhoodie.jpg);height: 320px; opacity: 0.6;filter: blur(1px);background-color: black;'>
+       </div>
+     </div>
+   </div>
+ </blogHeaderBanner>
+ <blogHeaderContent>
+   <div class='row blogHeader' style='position:absolute;background-color: transparent; color:white; top: 42px !important; width: 100% !important;'>
+
+     <div class='container blogHeader-content'>
+       <div class='blogHeaderContent' style='opacity: 1.0 !important;'>
+         <nav class='' style='background-color: transparent; box-shadow: none'>
+           <div class='nav-wrapper'>
+            <center><h4 class='' href='#' id='blogName' style='font-family: &apos;Merienda&apos;, cursive;'>~PickerAtPace~</h4></center>
+           </div>
+         </nav>
+         <div class='col s12' style='margin-top: 40px; opacity: 1.0 !important;'>
+           <center><img id='profileImg' src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/5.jpg' style='border-radius: 50%; width:120px; height: 120px;  border: 3px solid white; padding:3px;'/></center>
+         </div>
+         <div class='col s12' style='text-align: center; margin-bottom: 50px; font-weight: bold;'>
+           <h5 id='subTitle' style='font-family: &apos;Merienda&apos;, cursive;'><b>....Because Time And Tide Wait For None</b>
+           </h5>
+         </div>
+       </div>
+     </div>
+   </div>
+ </blogHeaderContent>
+</blogHeader>
+<blogNavbar>
+   <div class='row'>
+     <div class='block' id='blue'>
+       <div class='col s12 ' data-target='blue' id='secondary-nav'>
+         <ul class='tabs' style='background-color: #e8e6e8;'>
+           <center>
+             <li class='tab ' id='screen1'><a class='active' href='#home'>home</a></li>
+             <li class='tab ' id='screen2'><a href='#test2'>Posts</a></li>
+      <li class='tab ' id='screen5'><a href='#mediaSection'>PAP <sub>TV</sub></a></li>
+         </center>
+         </ul>
+       </div>
+
+     </div>
+   </div>
+   </blogNavbar>
+   <blogSectionHome>
+   <div class='col s12' id='home'>
+     <div class='row'>
+<blogSectionHome_igEmbed>
+       <div class='col s12 m3 hide-on-med-and-down' id='ig_embed' style='overflow-x: hidden;height: 700px; '>
+         <blockquote class='instagram-media' data-instgrm-captioned='true' data-instgrm-permalink='https://www.instagram.com/p/BwH7X8anEr-/?utm_source=ig_embed&amp;utm_medium=loading' data-instgrm-version='12' style=' background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);'>
+           <div style='padding:16px;'> <a href='https://www.instagram.com/p/BwH7X8anEr-/?utm_source=ig_embed&amp;utm_medium=loading' style=' background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;' target='_blank'>
+               <div style=' display: flex; flex-direction: row; align-items: center;'>
+                 <div style='background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;'>
+                 </div>
+                 <div style='display: flex; flex-direction: column; flex-grow: 1; justify-content: center;'>
+                   <div style=' background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;'>
+                   </div>
+                   <div style=' background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;'>
+                   </div>
+                 </div>
+               </div>
+               <div style='padding: 19% 0;'/>
+               <div style='display:block; height:50px; margin:0 auto 12px; width:50px;'><svg height='50px' version='1.1' viewBox='0 0 60 60' width='50px' xmlns='https://www.w3.org/2000/svg' xmlns:xlink='https://www.w3.org/1999/xlink'>
+                   <g fill='none' fill-rule='evenodd' stroke='none' stroke-width='1'>
+                     <g fill='#000000' transform='translate(-511.000000, -20.000000)'>
+                       <g>
+                         <path d='M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631'>
+                         </path>
+                       </g>
+                     </g>
+                   </g>
+                 </svg></div>
+               <div style='padding-top: 8px;'>
+                 <div style=' color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;'>
+                   View this post on Instagram</div>
+               </div>
+               <div style='padding: 12.5% 0;'/>
+               <div style='display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;'>
+                 <div>
+                   <div style='background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);'>
+                   </div>
+                   <div style='background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;'>
+                   </div>
+                   <div style='background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);'>
+                   </div>
+                 </div>
+                 <div style='margin-left: 8px;'>
+                   <div style=' background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;'>
+                   </div>
+                   <div style=' width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)'>
+                   </div>
+                 </div>
+                 <div style='margin-left: auto;'>
+                   <div style=' width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);'>
+                   </div>
+                   <div style=' background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);'>
+                   </div>
+                   <div style=' width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);'>
+                   </div>
+                 </div>
+               </div>
+             </a>
+             <p style=' margin:8px 0 0 0; padding:0 4px;'> <a href='https://www.instagram.com/p/BwH7X8anEr-/?utm_source=ig_embed&amp;utm_medium=loading' style=' color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;' target='_blank'>// Big sunglasses hide all sins! 🌸 Found these over sized sunnies at @minisoindia
+                 and totally in love with them. What do you think? YAY or NAY? . . #pickeratpace #indianblogger
+                 #lucknowblogger #fashion #styleblogger #sunglasses #minisoindia #miniso #stylish #fashionblogger
+                 #fashionnova #lucknow #makeuponfleek . 📸 by : @ravishsiddiqui | HMUA : @makeoverbysiddhi 💄</a></p>
+             <p style=' color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;'>
+               A post shared by <a href='https://www.instagram.com/pickeratpace/?utm_source=ig_embed&amp;utm_medium=loading' style=' color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;' target='_blank'> Shubhi Garg | Picker at Pace</a> (@pickeratpace) on <time datetime='2019-04-11T17:36:40+00:00' style=' font-family:Arial,sans-serif; font-size:14px; line-height:17px;'>Apr 11, 2019 at 10:36am PDT</time></p>
+           </div>
+         </blockquote>
+         <script async='async' src='https://www.instagram.com/embed.js'/>
+       </div>
+</blogSectionHome_igEmbed>
+<blogSectionHome_latestPosts>
+       <div class='col s12 m6 ' id='blog_region'>
+         <div class=''>
+           <div style='text-align: center;'>
+            <center>
+             <h5 style='font-family: &apos;Merienda&apos;, cursive;'><b>Blog Posts</b></h5>
+
+             <div class='cube-loader' id='loader1'>
+               <div class='sk-cube1 sk-cube'/>
+               <div class='sk-cube2 sk-cube'/>
+               <div class='sk-cube4 sk-cube'/>
+               <div class='sk-cube3 sk-cube'/>
+             </div>
+
+             <div class='row container' style='margin-top:40px; overflow-x: hidden; '>
+
+               <div class='carousel homeC carousel-slider center topPostHolder' style='visibility: visible !important; display: none; '>
+               
+               </div>
+             </div>
+           </center>
+           </div>
+         </div>
+       </div>
+</blogSectionHome_latestPosts>
+<blogSectionHome_tweets>
+       <div class='col s12 m3 hide-on-med-and-down' id='tw_embed'><a class='twitter-timeline' data-height='700' href='https://twitter.com/pickeratpace?ref_src=twsrc%5Etfw'>Tweets by pickeratpace</a>
+         <script async='async' charset='utf-8' src='https://platform.twitter.com/widgets.js'/>
+       </div>
+       </blogSectionHome_tweets>
+     </div>
+
+     
+     <div class='divider'/>
+     <blogSectionHome_mediaSection>
+     <div class='row media-info-tab'>
+       <div class='col s12 container'>
+         <div style='text-align: center;'>
+          <center>
+           <h5><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/tv.svg' style='height: 42px; vertical-align: middle;'/><b style='font-family: &apos;Merienda&apos;, cursive;'> ~PickerAtPace~<sub>
+                 <h6 style='display: inline;'>TV</h6>
+               </sub></b><div class='btn-small' style='border-radius:40px; background-color:black; color:white '>Watch Now</div></h5>
+        
+         
+           <div class='col s12 m4'>
+             <center>  
+               <div class='video-container'>
+           <iframe allowFullScreen='true' allowTransparency='true' frameborder='0' height='480' scrolling='no' src='https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpickeratpace%2Fvideos%2F290896258453044%2F&amp;show_text=0&amp;width=560' style='border:none;overflow:hidden; ' width='853'/>
+        
+        </div>
+      </center>
+            <div class='card' style='width: 100% !important'>
+        <div class='card-action'>
+          <b style='font-family: &apos;Merienda&apos;, cursive;'>PAP Turns 5</b>
+        </div>
+      </div>
+          
+           </div>
+            <div class='col s12 m4'>
+             <center>  
+               <div class='video-container'>
+         <iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='true' frameborder='0' height='315' src='https://www.youtube.com/embed/cKFjrtZdKlo' width='560'/>
+        </div>
+      </center>
+            <div class='card' style='width: 100% !important'>
+        <div class='card-action'>
+          <b style='font-family: &apos;Merienda&apos;, cursive;'>Thrift Shopping Challenge with PICKER AT PACE</b>
+        </div>
+      </div>
+          
+           </div>
+         <div class='col s12 m4'>
+             <center>  
+               <div class='video-container'>
+        <iframe allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen='true' frameborder='0' height='315' src='https://www.youtube.com/embed/UR9XIKQERTo' width='560'/>
+        </div>
+      </center>
+            <div class='card' style='width: 100% !important'>
+        <div class='card-action'>
+         <b style='font-family: &apos;Merienda&apos;, cursive;'>THE BLOG TALK featuring Shubhi Garg</b>
+        </div>
+      </div>
+          
+           </div>
+         </center>
+ </div>
+       </div>
+     
+     </div>
+   </blogSectionHome_mediaSection>
+     <blogSectionHome_reviews>
+<div class='divider'/>
+      <div class='col s12 '>
+         <center>
+           <h5><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/food.svg' style='height: 42px; vertical-align: middle;'/><b style='font-family: &apos;Merienda&apos;, cursive;'> FoodDiaries</b></h5>
+               <div class='col s12 m4'/>
+         </center>
+         <div class='row' id='home_food'>
+         </div>
+       </div>
+       </blogSectionHome_reviews>
+     </div>
+   
+</blogSectionHome>
+<blogPostSection>
+    <div class='row' id='test2' style='background-image: url(http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/bgN.png); background-color: transparent;'>
+
+     <div class='row' style='margin-bottom: 0px !important; background-color: white;'>
+       <div class='col s12 m3'>
+         <center>
+           <h4>~PickerAtPace~<sub>
+               <h6 style='display: inline;'>BLOG</h6>
+             </sub></h4>
+         </center>
+       </div>
+       <div class='col s12 m4 postSearch' style='margin-top: 12px; '>
+         <center><span><input class='msg_box' style='display: inline; vertical-align: middle;' type='email'/>
+             <i class='material-icons' style='font-size:32px; color: #e52046; margin-left: 4px; vertical-align: middle;'>
+               search
+             </i></span></center>
+       </div>
+  
+
+     </div>
+
+     <div class='divider'/>
+     <div class='rainbow-progress-bar-home' id='loader3' style=''/>
+     <div class='row'>
+       <div class='postTabView' style=''>
+
+       </div>
+     </div>
+<div class='card postHolder'><div class='card-content'>All The posts Are Fetched from <a href='http://emporio-template-demo.blogspot.com/'>http://emporio-template-demo.blogspot.com/</a>. </div></div>
+   </div>     
+   </blogPostSection>
+   <blogPostDisplayModal>
+   <div class='modal  postModal' id='postDisplayArea' style='background-color: white; '>
+     <blogPostDisplayModal_share>
+     <div class='fixed-action-btn'>
+       <a class='btn-floating btn-large shareables' style=''>
+         <i class=' material-icons' style='color: black'>
+           share
+         </i>
+       </a>
+       <ul>
+         <li><a class='btn-floating share'>
+             <center><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/ig_outline.svg' style='height: 30px; width: 30px; margin-top: 4px;'/></center>
+           </a></li>
+         <li><a class='btn-floating share'>
+             <center><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/twitter_outline.svg' style='height: 30px; width: 30px; margin-top: 4px;'/></center>
+           </a></li>
+         <li><a class='btn-floating share'>
+             <center><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/fb_outline.svg' style='height: 30px; width: 30px; margin-top: 4px;'/></center>
+           </a></li>
+         <li><a class='btn-floating share'>
+             <center><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/wh_outline.svg' style='height: 30px; width: 30px; margin-top: 4px;'/></center>
+           </a></li>
+       </ul>
+     </div>
+</blogPostDisplayModal_share>
+<blogPostDisplayModal_navbar>
+     <div class='navbar-fixed'>
+       <nav style='background-color: black'>
+         <div class='nav-wrapper postAreaNav'>
+           <ul class='left ' id='nav-mobile'>
+             <li><a id='closePost' style='font-size: 18px;'><i class='material-icons' style='vertical-align: middle; display: inline;'>
+                   arrow_back
+                 </i> Back</a></li>
+
+           </ul>
+
+         </div>
+       </nav>
+       <div class='rainbow-progress-bar' id='loader2' style='display: none'/>
+     </div>
+</blogPostDisplayModal_navbar>
+    <blogPostDisplayModal_content>
+     <div class='modal-content' id='postContent' style='display: none;'>
+       <div class='row'>
+
+         <h4 class='col s12 blogTitle' id='postTitle'/>
+         <br/>
+
+         <div class='col s12 blogContent' id='postAreaContent' style=' '>
+
+         </div>
+
+       </div>
+     </div>
+   </blogPostDisplayModal_content>
+     <blogPostDisplayModal_comments>
+<div class='divider'/><br/>
+     <div class='row container'>
+       <div class='col s12 ' id='comments'>
+         <h4>Comments <div id='comm_count' style='display: inline;'/>
+         </h4>
+         <div id='comm_box'>
+           <div id='comm_text_area'>
+             <div class='container__item'>
+               <div class='row'>
+
+                 <span> <input class='msg_box' style='display: inline; vertical-align: middle;' type='email'/>
+                   <img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/send_ico.svg' style='display: inline;height: 52px; width: 52px; vertical-align: middle;     margin-bottom: 15px;'/></span>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </blogPostDisplayModal_comments>
+     <div class='divider'/>
+     <blogPostDisplayModal_credits>
+     <div class='author'>
+       <div class='row'>
+         <div class='col s12'>
+           <center>
+             <h6>
+               Written With
+               <i class='material-icons-round' style='color:#ff001f; vertical-align: middle;'>
+                 favorite
+               </i> By
+               <img class='author_img' id='author_img' style='height: 20px; width:20px; border-radius: 50%; display: inline; vertical-align: middle; '/>
+               <div id='author_name' style='display: inline;margin-left:10px;'> On <div id='pub_date' style='display: inline;margin-left:px;'/></div>
+             </h6>
+           </center>
+         </div>
+
+       </div>
+     </div>
+</blogPostDisplayModal_credits>
+   </div>
+ </blogPostDisplayModal>
+   <blogMediaSection>
+    <div id='mediaSection'>
+      <blogMediaSection_header>
+<div class='media-header'>
+<center><h5 style='margin-top: 0px'><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/5.jpg' style='border-radius: 50%; width:60px; height: 60px;  border: 3px solid white; padding:3px;vertical-align: middle; margin: 5px;'/><b style='font-family: &apos;Merienda&apos;, cursive;'> ~PickerAtPace~<sub>
+                 <h6 style='display: inline;'>TV</h6>
+               </sub></b></h5></center>
+               <div class='rainbow-progress-bar-home' style=''/>
+</div>
+</blogMediaSection_header>
+<blogMediaSection_content>
+
+<div id='mediaLoader'/>
+<div class='row' id='premiere-content'>
+  <h5 class='heading' style='color: white; text-align: center;'>Exclusive Shows</h5>
+</div>
+</blogMediaSection_content>
+</div>
+<blogMediaSection_desc>
+ <div class='modal bottom-sheet' id='desc_btm_sheet' style=' border-top-left-radius: 20px;border-top-right-radius: 20px;'>
+    <div class='row right' style='margin-top: 6px; position: fixed'> <a class='modal-close waves-effect waves-green btn-flat red' href='#!' style='color: white;    margin-left: 40vw;'><i class='material-icons' style='color: white; vertical-align: middle;'>
+close
+</i>Close</a></div><div class='modal-content' id='vid_description' style='margin-top: 0px;'>
+
+     </div>
+
+   </div>
+ </blogMediaSection_desc>
+</blogMediaSection>
+
+    <blogReviewModal>
+   <div class='modal modal-fixed-footer' id='moreInfoFood' style=''>
+    <div class='modal-content ' id='moreInfoFoodContent'>
+     <div id='foodThumb'/>
+ </div>
+
+    <div class='modal-footer '>
+      <a class=' waves-effect waves-red btn-small btn-flat' href='' id='resOrderId' style='border-radius:20px; background-color:#cb212d; color:white ; ' target='_blank'>Order Now !</a>
+      
+    </div>
+  </div>
+</blogReviewModal>
+<blogRespViewBtmModal>
+   <div class='modal bottom-modal' id='ig_btm_sheet' style='background-image: url(https://cdn-images-1.medium.com/max/2600/1*gnUBeL-INIVDk0_GyL8x1g.png); background-size: 600px '>
+     <div class='modal-content' id='instafeed' style='margin-left: -8px;'>
+
+     </div>
+
+   </div>
+   <div class='modal bottom-modal' id='fb_btm_sheet' style='background-image: url(https://cdn-images-1.medium.com/max/2600/1*gnUBeL-INIVDk0_GyL8x1g.png); background-size: 600px '>
+     <div class='modal-content' id='fbfeed'>
+
+     </div>
+
+   </div>
+
+   <div class='modal bottom-modal' id='tw_btm_sheet' style='background-image: url(https://cdn-images-1.medium.com/max/2600/1*gnUBeL-INIVDk0_GyL8x1g.png); background-size: 600px '>
+     <div class='modal-content' id='twitterfeed'>
+       <a class='twitter-timeline' data-height='700' href='https://twitter.com/pickeratpace?ref_src=twsrc%5Etfw'>Tweets
+         by pickeratpace</a>
+       <script async='async' charset='utf-8' src='https://platform.twitter.com/widgets.js'/>
+     </div>
+
+   </div>
+ </blogRespViewBtmModal>
+<blogFooter>
+   <footer class='page-footer hide-on-med-and-down' style='background-color:#e8e6e8; color: black; padding-top: 0px;'>
+     <div class='footer-copyright'>
+       <div class='container' style='color: black;'>
+         &#169; 2019 <a href='https://pseudoblogger.github.io/website/'>PseudoBlogger</a>
+         <a class='black-text right' href='#!'>Prototype Designed And Developed By PseudoBlogger</a>
+       </div>
+     </div>
+   </footer>
+ </blogFooter>
+ <blogRespNavbar>
+ <div class='mobile-footer show-on-small hide-on-med-and-up' style=' padding-top: 0px;'>
+     <div class='footer-copyright' style='background-color:white; color: black; text-align: center'>
+       <div class='col s12 m4 modal-trigger' data-target='ig_btm_sheet' id='ig_mob' style='display: inline;'><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/ig_outline.svg' style='height: 32px; width: 62px;'/></div>
+       <div class='col s12 m4 modal-trigger' data-target='tw_btm_sheet' id='tw_mob' style='display: inline;'><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/twitter_outline.svg' style='height: 32px; width: 62px;'/></div>
+       <div class='col s12 m4 modal-trigger' data-target='fb_btm_sheet' id='fb_mob' style='display: inline;'><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/fb_outline.svg' style='height: 32px; width: 62px;'/></div>
+   <div class='col s12 m3 modal-trigger' id='triggerMediaTab' style='display: inline;'><img src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/images%40blogkraken/tv.svg' style='height: 32px; width: 62px;'/></div>
+     </div>
+   </div>
+ </blogRespNavbar>
+ <blogStaticJS>
+   <script src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/staticprocessors%40blogkraken/blogger_script_blogkraken.js'>
+   </script>
+<script src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/staticprocessors%40blogkraken/mediaServer.js'>
+   </script>
+<script src='http://ec2-184-73-107-241.compute-1.amazonaws.com:3000/static/staticprocessors%40blogkraken/postHandler.js'>
+   </script>
+ </blogStaticJS>
+ <script type='text/javascript'>
+ const a = 1733;
+ localStorage.setItem(&#39;blogID&#39;,a);
+ </script>
+  </body>
+
+</html>
